@@ -1,7 +1,8 @@
 # Text_Transliteration
 ### LSTM based Encoder Decoder model for Transliteratin of English , and Indic language query
+#### Model used for this sequence to sequence prediction problem => Bidirectional LSTM based Encoder-Decoder model with Attention layer
 
-##Steps followed(Flow):
+## Steps followed(Flow):
 1. Importing the data from GitHub (Using !wget)
 2. Reading the data (Using Pandas)
 3. Checking if the data has any Nan values.
