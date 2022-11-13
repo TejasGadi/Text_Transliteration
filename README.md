@@ -1,5 +1,5 @@
 # Text_Transliteration
-### LSTM based Encoder Decoder model for Transliteratin of English , and Indic language query
+### LSTM based Encoder Decoder model for Transliteration of English , and Indic language query
 #### Model used for this sequence to sequence prediction problem => Bidirectional LSTM based Encoder-Decoder model with Attention layer
 
 ## Steps followed(Flow):
